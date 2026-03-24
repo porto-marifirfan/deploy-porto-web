@@ -16,7 +16,7 @@ node_modules
 *.local
 # Ignore dist folder
 dist/
-*.dist
+
 
 .PresenceWidget.jsx
 
